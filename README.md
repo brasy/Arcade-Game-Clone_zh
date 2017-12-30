@@ -5,7 +5,6 @@ frontend-nanodegree-arcade-game
 * use the **"up","down","left","right"** key in your keyboard to control the player
 * when win the game, it will show the result and grades, then can click **start game** to continue
 * when lose the game, restart the game.
-===============================
 
 ## completed the game description
 * create Player class based on the Enemy class
