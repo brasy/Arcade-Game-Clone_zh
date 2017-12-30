@@ -7,7 +7,7 @@ frontend-nanodegree-arcade-game
 * when lose the game, restart the game.
 ===============================
 
-##completed the game description
+## completed the game description
 * create Player class based on the Enemy class
 * complete the prototype methods of Enemy class, including `update(dt)` and `rander()`
 * complete the prototype methods of Player class, including `update()`, `rander()` and `handleInput()`
